@@ -1,2 +1,8 @@
 # python-platform
-django tornado
+
+
+- django
+
+## 参考资料
+
+- https://github.com/encode/django-rest-framework
